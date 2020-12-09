@@ -10,7 +10,7 @@ In this paper, we propose an efficient approach referred as **Mercer Features fo
 
 
 ### Requirements/Installation
-The code is implemented in Python and requires the following key library other than the ones mentioned in requirements.txt:[graph-tool](https://graph-tool.skewed.de/) 
+The code is implemented in Python and requires the following library other than the ones mentioned in requirements.txt: [graph-tool](https://graph-tool.skewed.de/) 
 
 
 ### Benchmarks
