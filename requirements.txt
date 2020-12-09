@@ -1,0 +1,6 @@
+gputil
+psutil
+simanneal==0.4.2
+toposort
+torch==1.1.0
+torchvision==0.2.2
