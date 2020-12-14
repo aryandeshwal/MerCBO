@@ -10,7 +10,7 @@ In this paper, we propose an efficient approach referred as **Mercer Features fo
 
 
 ### Requirements/Installation
-The code is implemented in Python and requires the following library other than the ones mentioned in requirements.txt: [graph-tool](https://graph-tool.skewed.de/) 
+The code is implemented in Python and requires the [graph-tool](https://graph-tool.skewed.de/) library (other than the ones mentioned in requirements.txt)
 
 
 ### Benchmarks
@@ -18,4 +18,3 @@ python main.py --objective labs --n_eval 250
 
 
 The repository builds upon the [source code](https://github.com/QUVA-Lab/COMBO) provided by the COMBO authors. We thank them for their code and have added appropriate licenses. 
-
